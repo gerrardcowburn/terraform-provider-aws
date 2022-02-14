@@ -3,7 +3,7 @@ module github.com/hashicorp/terraform-provider-aws
 go 1.17
 
 require (
-	github.com/ProtonMail/go-crypto v0.0.0-20210428141323-04723f9f07d7
+	github.com/ProtonMail/go-crypto v0.0.0-20220113124808-70ae35bab23f
 	github.com/aws/aws-sdk-go v1.42.51
 	github.com/beevik/etree v1.1.0
 	github.com/hashicorp/aws-cloudformation-resource-schema-sdk-go v0.15.0
